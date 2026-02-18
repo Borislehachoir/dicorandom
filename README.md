@@ -14,9 +14,8 @@ J'ai donc codé mon site en JavaScript, en HTML et en CSS, en me basant sur ce q
 J'ai pour projets : 
 
 - 1 : de créer un bouton definition-hidden, qui dissimulerait tout sauf le mot jusqu'à ce qu'on clique dessus, ou pendant un certain délai avec un timer en haut de page, afin de créer un mécanisme de jeu;
-- 2 : de déplacer mes définitions dans un fichier CSV pour me simplifier la vie : c'est une galère de tout écrire en JavaScript à chaque fois que j'ai un mot de plus. Il serait plus intéressant d'appeler un fichier dico.csv dans ma fonction dictionnaire;
-- 3 : de peut-être améliorer l'interface, ou le côté visuel ? j'ai fait un truc très simple, mais ça mériterait peut-être de faire des efforts niveau stylisation des classes CSS;
-- 4 : et de réfléchir à d'autres améliorations que je pourrais apporter au site.
+- 2 : de peut-être améliorer l'interface, ou le côté visuel ? j'ai fait un truc très simple, mais ça mériterait peut-être de faire des efforts niveau stylisation des classes CSS;
+- 3 : et de réfléchir à d'autres améliorations que je pourrais apporter au site.
 
 Si vous avez envie de collaborer au projet, envoyez-moi vos mots relativement inconnus de la langue française par MP. 
 
